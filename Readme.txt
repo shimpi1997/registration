@@ -1,7 +1,7 @@
-Author: Yogesh singh
-Author URL: https://makitweb.com/
-Author Email: makitweb@gmail.com
-Tutorial Link: https://makitweb.com/create-registration-form-with-mysql-and-php/
+Author: Parag Shimpi
+Author URL: https://beerider.in
+Author Email: makitweb@beerider.in
+
 
 #####
 
